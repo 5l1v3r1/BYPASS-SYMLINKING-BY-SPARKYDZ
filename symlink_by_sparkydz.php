@@ -20,7 +20,7 @@ body {
 </script>
 <link href="http://fonts.googleapis.com/css?family=Iceland" rel="stylesheet" type="text/css">
 <title>|BYPASS SYMLINKING BY SPARKYDZ|</title>
-</head><body><center><img style="width:250px;" src="https://rockc3.com/wp-content/uploads/2019/11/rc3-uncharted.jpg"></center>
+</head><body><center><img style="width:250px;" src="https://i.pinimg.com/originals/8b/c8/8c/8bc88cbb2a5f8b689c0e00525ba1e8cb.png"></center>
 
 <font style="color:#fff;text-shadow:0px 1px 5px #000;font-size:30px" face="Iceland">SCRIPT BY 
 
